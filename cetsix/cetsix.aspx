@@ -1,9 +1,9 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="cetsix.aspx.cs" Inherits="cetsix_cetsix" %>
-
+123
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>英语六级词汇查询</title>
+    <title>英语六级词汇查询1</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <link href="css/10086bank.css" type="text/css" rel="stylesheet">
     <link rel="stylesheet" href="css/iosOverlay.css">
