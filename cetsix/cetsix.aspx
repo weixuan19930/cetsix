@@ -4,6 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>英语六级词汇查询1</title>
+<title>英语六级词汇查询2</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <link href="css/10086bank.css" type="text/css" rel="stylesheet">
     <link rel="stylesheet" href="css/iosOverlay.css">
